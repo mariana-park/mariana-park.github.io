@@ -1,5 +1,11 @@
-﻿.navbar {
+.navbar {
 	background-color: lightpink !important;
+}
+
+.navbar-brand {
+	font-size: 1rem !important;
+	padding-top: .4rem !important;
+    padding-bottom: .2rem !important;
 }
 
 .navbar a.active {
@@ -22,6 +28,14 @@
 .my-main-area {
 	background-color: pink;
 	padding-top: 70px;
+}
+
+img.my-main-photo {
+	width: 100%;
+}
+
+.my-info {
+	text-align: justify;
 }
 
 .col-sm-3 > img {
