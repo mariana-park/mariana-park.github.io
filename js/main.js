@@ -1,4 +1,4 @@
-﻿jQuery(function($) {
+jQuery(function($) {
 	var channelInformatyka = "https://www.schoollife.org.ua/category/fajly/informatyka/feed/",
 		channelOsvitaIT = "https://www.schoollife.org.ua/category/osvita-i-it/feed/"
 	
@@ -24,6 +24,4 @@
 		
 		$('#navbar-main .navbar-toggler-icon').filter(':visible').click();
 	});
-	
-	
 })
